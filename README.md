@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hello, my name is Alex! I'm currently studying at the 2'nd semester MIPT DREC.
+ ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 🌱 I’m currently learning C, assembly
 <!--
