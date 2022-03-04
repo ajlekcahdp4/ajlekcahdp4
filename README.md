@@ -1,8 +1,7 @@
 ### Hi there 👋
 Hello, my name is Alex! I'm currently studying at the 2'nd semester MIPT DREC.
- ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🌱 I’m currently learning C, assembly
+🌱 I’m currently learning C.
 <!--
 **ajlekcahdp4/ajlekcahdp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
