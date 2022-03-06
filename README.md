@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, my name is Alex! I'm currently studying at the 2'nd semester MIPT DREC.
 
-🌱 I’m currently learning C lang.
+🌱 I’m currently learning C lang, physics, matanalysis
 <!--
 **ajlekcahdp4/ajlekcahdp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
