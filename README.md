@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, my name is Alex! I'm currently studying at the 2'nd semester MIPT DREC.
 
-🌱 I’m currently learning C lang, assembly, physics, matanalysis
+🌱 I’m currently learning C lang, x86-assembly, physics, matanalysis
 
 ### Langs:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
