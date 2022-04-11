@@ -1,7 +1,7 @@
 ![f](https://github-readme-stats.vercel.app/api?username=ajlekcahdp4&theme=blue-green)
 
 ### Hi there 👋
-Hello, my name is Alex! I'm currently studying at the 2'nd semester MIPT DREC.
+Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC.
 
 🌱 I’m currently learning C lang, x86-assembly, physics, matanalysis
 
