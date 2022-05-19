@@ -18,7 +18,7 @@ Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https
 
 ### I'm currently studying in [![MIPT](https://img.shields.io/badge/-MIPT-blue)](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)
 ### Contacts: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanov.aleksandr@phystech.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.rom23@mail.ru)
 
 <!--
 **ajlekcahdp4/ajlekcahdp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
