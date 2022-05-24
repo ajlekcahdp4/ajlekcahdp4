@@ -7,8 +7,13 @@ Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https
 
 ### Langs:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+![asm](https://img.shields.io/static/v1?style=for-the-badge&label=&message=x86-64%20assembly&color=blue)
+
 ### Other skills:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### OS:
