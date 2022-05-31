@@ -19,7 +19,6 @@ Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https
 ### Code Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### I'm currently studying in [![MIPT](https://img.shields.io/badge/-MIPT-blue)](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)
 ### Contacts: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.rom23@mail.ru)
 
