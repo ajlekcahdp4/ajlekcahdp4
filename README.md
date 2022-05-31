@@ -8,9 +8,6 @@ Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https
 ### Langs:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-
-![asm](https://img.shields.io/static/v1?style=for-the-badge&label=&message=x86-64%20assembly&color=blue)
-
 ### Other skills:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -18,6 +15,7 @@ Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https
 
 ![bash-scripting](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
+![asm](https://img.shields.io/static/v1?style=for-the-badge&label=&message=x86-64%20assembly&color=blue)
 ### OS:
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ### Code Editors:
