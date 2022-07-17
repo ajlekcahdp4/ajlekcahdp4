@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Alex! I'm currently studying at the 2'nd semester [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC.
+Hello, my name is Alex! I'm currently in my 2'nd year [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC.
 
 🌱 I’m currently learning C++, physics, calculus
 
