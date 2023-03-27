@@ -6,6 +6,7 @@ Hello, my name is Alex! I'm currently in my 2'nd year [MIPT](https://en.wikipedi
 ### Langs:
 * ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 * ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Other skills:
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -17,8 +18,6 @@ Hello, my name is Alex! I'm currently in my 2'nd year [MIPT](https://en.wikipedi
 * ![asm](https://img.shields.io/static/v1?style=for-the-badge&label=&message=x86-64%20assembly&color=blue)
 ### OS:
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-### Code Editors:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Contacts: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.rom23@mail.ru)
