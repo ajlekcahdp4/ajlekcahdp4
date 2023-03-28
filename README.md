@@ -2,6 +2,7 @@
 Hello, my name is Alex! I'm currently in my 2'nd year [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC (Department of Radio Engineering and Cybernatics).
 
 🌱 I’m currently learning C++, physics, calculus
+### My [CV](cv.pdf)
 
 ### Langs:
 * ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
