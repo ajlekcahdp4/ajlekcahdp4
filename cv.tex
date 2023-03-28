@@ -1,0 +1,153 @@
+\documentclass[12pt]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{blindtext}
+\usepackage{tgpagella}
+\usepackage{hyperref}
+
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  left=20mm,
+  %right=
+  %bottom=
+  top=15mm
+}
+
+\pagestyle{empty}
+
+\usepackage{sectsty}
+
+\sectionfont{                        
+    \large 
+    \fontfamily{qag}\selectfont
+    \sectionrule{0pt}{0pt}{-5pt}{1pt} 
+}
+
+\newlength{\spacebox}
+\settowidth{\spacebox}{123456789}
+
+\newcommand{\sepspace}{\vspace*{1em}}
+
+\newcommand{\name}[1]{
+  \Huge 
+  \fontfamily{phv}\selectfont 
+  \begin{center} \textbf{#1} \end{center}\par
+  \normalsize\normalfont
+}
+
+\newcommand{\motto}[1]{
+  \fontfamily{phv}\selectfont
+  \begin{center} \textsl{#1}\end{center}\par
+  \normalsize \normalfont
+}
+
+% personal information
+\newcommand{\info}[2]{
+  \noindent\hangindent=2em\hangafter=0
+  \parbox{\spacebox}{
+  \textsl{#1}}
+  #2 \par
+}
+
+% skills
+\newcommand{\skill}[2]{
+\noindent\hangindent=2em\hangafter=0
+\parbox{3\spacebox}{
+\textsc{#1}}
+#2 \par
+}
+
+% projects
+\newcommand{\proj}[3]{
+\noindent\hangindent=2em\hangafter=0
+\textbf{#1} 
+#2 \par
+\textbf{Link:} \url{#3} \
+}
+
+
+% languages
+\newcommand{\lan}[2]{
+  \noindent\hangindent=2em\hangafter=0
+  \parbox{\spacebox}{
+      \textbf{#1}
+  }
+  #2 
+}    
+
+% education entry
+\newcommand{\education}[4]{
+% name of the studies
+  \noindent  \textbf{#1}
+  % at the right the duration
+    \hfill 
+    \framebox{% duration inside a frame box
+    \parbox{6em}{%
+    \centering\textbf{#2}}} 
+  % new paragraph with the school in italics
+    \noindent \textit{#3} 
+    % description with no hanging and in smaller text
+    \vspace*{0.5em}
+    \noindent\hangindent=2em\hangafter=0 \small #4 
+  %back to normal size
+  
+}
+
+% study experience
+\newcommand{\studexp}[4]{
+% name of the studies
+  \noindent  \textbf{#1}
+  % at the right the duration
+    \hfill 
+    \framebox{% duration inside a frame box
+    \parbox{6em}{%
+    \centering\textbf{#2}}} \par
+  % new paragraph with the school in italics
+    \noindent \textit{#3} \par
+    % description with no hanging and in smaller text
+    \vspace*{0.5em}
+    \noindent\hangindent=2em\hangafter=0 \small #4 
+  %back to normal size
+  \normalsize
+}
+
+
+\begin{document}
+
+
+\name{Romanov Alexander}
+\vspace*{-10pt}
+% personal information
+\sepspace
+\info{Email}{\texttt{alex.rom23@mail.ru}}
+\info{Phone}{+7 927 516 65 78}
+\info{github}{\url{https://github.com/ajlekcahdp4}}
+
+\section*{Education}
+\education{Radio Engineering and Computer Science}{2021--2025}{MIPT}{}
+
+\section*{Learning experience}
+\studexp{Industrial Programming (C language)}{2021-2022}{Lecturer: I.Dedinsky}
+
+\studexp{C/asm language course}{2021-2022}{Lecturer: K.Vladimirov}
+
+\studexp{Basic C++ course }{2022-2023}{Lecturer: K.Vladimirov}
+
+\section*{Technical skills}
+\skill{Programming languages}{\textsc{C++},
+\textsc{C}, \textsc{Python}}
+\skill{Other}{\textsl{Git, cmake, Linux, assembly}, \LaTeX}
+% languages
+\section*{Languages}
+\lan{Russian}{Native}
+\lan{English}{B2/C1}
+\section*{Projects}
+\begin{itemize}
+  \item \proj{ParaCL interpreter}{Interpreter of a custom languange that combines C and python features. Frontend implemented with Flex and Bison. Backend with custom opcode and virtual machine.}{https://github.com/serjzimmerman/aslab-cpp-05-paracl}
+  \item \proj{Triangles 3D}{Visualisation of 3D triangles intersection using Vulkan C++ API}{https://github.com/serjzimmerman/aslab-cpp-02-geometry-02-vulkan}
+  \item \proj{Splay trees}{Spaly tree data structure implementation in C++}{https://github.com/ajlekcahdp4/splay-tree}
+  \item \proj{graphs}{Header-only C++ library with few graphs data structures implementations}{https://github.com/ajlekcahdp4/graphs}
+\end{itemize}
+\end{document}
