@@ -1,4 +1,4 @@
-t### Hi there 👋
+### Hi there 👋
 My name is Alex! I'm currently in my 3'rd year [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC (Department of Radio Engineering and Cybernatics).
 
 * C++ enjoyer
