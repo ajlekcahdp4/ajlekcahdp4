@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Alex! I'm currently in my 4'th year [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) DREC (Department of Radio Engineering and Cybernatics).
+My name is Alex!
 
 * C++ enjoyer
 * Nix fan
@@ -8,7 +8,7 @@ My name is Alex! I'm currently in my 4'th year [MIPT](https://en.wikipedia.org/w
 * Software architecture
 * RISC-V
 * Compiler technologies
-* Neural Networks
+* Package management
   
 <!--
 **ajlekcahdp4/ajlekcahdp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
